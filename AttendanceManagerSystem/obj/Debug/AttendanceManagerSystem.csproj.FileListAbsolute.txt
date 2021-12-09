@@ -1,0 +1,17 @@
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\bin\Debug\AttendanceManagerSystem.exe.config
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\bin\Debug\AttendanceManagerSystem.exe
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\bin\Debug\AttendanceManagerSystem.pdb
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.Login.resources
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.Properties.Resources.resources
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.csproj.GenerateResource.cache
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.csproj.CoreCompileInputs.cache
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.exe
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.pdb
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.AdminHome.resources
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.AddCourse.resources
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.AddCourseIntoClass.resources
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.PL.AddMajor.resources
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.PL.AddStudent.resources
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.csprojAssemblyReference.cache
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.PL.UpdateMajor.resources
+D:\PRN292\AttendanceSystem\AttendanceManagerSystem\obj\Debug\AttendanceManagerSystem.PL.UpdateStudent.resources
